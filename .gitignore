@@ -1,0 +1,21 @@
+# Environments
+.venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Local data and outputs
+data/
+outputs/
+
+# Local-only docs
+AGENTS.md
