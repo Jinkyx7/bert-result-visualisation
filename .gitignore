@@ -16,6 +16,8 @@ __pycache__/
 # Local data and outputs
 data/
 outputs/
+reports/
+scripts/
 
 # Local-only docs
 AGENTS.md
