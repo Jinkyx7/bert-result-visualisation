@@ -18,6 +18,7 @@ data/
 outputs/
 reports/
 scripts/
+*.csv
 
 # Local-only docs
 AGENTS.md
